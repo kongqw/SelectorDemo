@@ -2,7 +2,7 @@
 
 ![G1](http://img.blog.csdn.net/20160428164544292)
 
-[GitHub：https://github.com/kongqw/SelectorDemo](https://github.com/kongqw/SelectorDemo)
+
 [我的博客：http://blog.csdn.net/q4878802/article/details/51275718](http://blog.csdn.net/q4878802/article/details/51275718)
 
 ##点击按钮换背景图
